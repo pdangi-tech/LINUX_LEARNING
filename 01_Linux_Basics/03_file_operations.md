@@ -174,7 +174,7 @@ stat notes.txt
 
 ## 3. Evidences
 
-Screenshots of my practical Linux file operation exercises are stored in the `Evidence_image/` directory.
+Screenshots of my practical Linux terminal exercises are stored in the screenshots/ directory.
 
 ### Screenshot 1: Linux Terminal
 
